@@ -1,5 +1,5 @@
 servers = (
-  { address = "irc"; chatnet = "tildenet"; port = "6667"; }
+  { address = "irc"; chatnet = "tilde.chat"; port = "6667"; }
 );
 
 chatnets = {
@@ -13,7 +13,8 @@ chatnets = {
 };
 
 channels = (
-  { name = "#tildeclub"; chatnet = "tildenet"; autojoin = "No"; }
+  { name = "#club"; chatnet = "tilde.chat"; autojoin = "No"; }
+  { name = "#meta"; chatnet = "tilde.chat"; autojoin = "No"; }
 );
 
 aliases = {
