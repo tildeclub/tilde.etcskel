@@ -1,0 +1,40 @@
+2019-09-16 01:19:30		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2019-09-16 01:19:30		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2019-09-16 01:19:30		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2019-09-16 01:19:30		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2019-09-16 01:19:30		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2019-09-16 01:19:30		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2019-09-16 01:19:30		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2019-09-16 01:19:30		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2019-09-16 01:19:30		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2019-09-16 01:19:30		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2019-09-16 01:19:30		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2019-09-16 01:19:30		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2019-09-16 01:19:30		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2019-09-16 01:19:30		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2019-09-16 01:19:30		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2019-09-16 01:19:35		irc: server tilde added
+2019-09-16 01:19:44		Option changed: irc.server.tilde.autoconnect = on  (default if null: off)
+2019-09-16 01:19:54		Option changed: irc.server.tilde.autojoin = "#club,#meta,#tilderadio"  (default if null: "")
+2019-09-16 01:20:43		Options saved to sec.conf
+2019-09-16 01:20:43		Options saved to weechat.conf
+2019-09-16 01:20:43		Options saved to plugins.conf
+2019-09-16 01:20:43		Options saved to charset.conf
+2019-09-16 01:20:43		Options saved to logger.conf
+2019-09-16 01:20:43		Options saved to exec.conf
+2019-09-16 01:20:43		Options saved to trigger.conf
+2019-09-16 01:20:43		Options saved to spell.conf
+2019-09-16 01:20:43		Options saved to alias.conf
+2019-09-16 01:20:43		Options saved to buflist.conf
+2019-09-16 01:20:43		Options saved to fifo.conf
+2019-09-16 01:20:43		Options saved to xfer.conf
+2019-09-16 01:20:43		Options saved to irc.conf
+2019-09-16 01:20:43		Options saved to relay.conf
+2019-09-16 01:20:43		Options saved to guile.conf
+2019-09-16 01:20:43		Options saved to lua.conf
+2019-09-16 01:20:43		Options saved to perl.conf
+2019-09-16 01:20:43		Options saved to python.conf
+2019-09-16 01:20:43		Options saved to ruby.conf
+2019-09-16 01:20:43		Options saved to tcl.conf
+2019-09-16 01:20:43		Options saved to script.conf
+2019-09-16 01:20:43		Options saved to fset.conf
