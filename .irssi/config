@@ -1,5 +1,5 @@
 servers = (
-  { address = "irc"; chatnet = "tilde.chat"; port = "6667"; }
+  { address = "irc"; chatnet = "localhost"; port = "6667"; }
 );
 
 chatnets = {
