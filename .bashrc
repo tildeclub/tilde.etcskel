@@ -95,9 +95,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# set EDITOR just in case
-export EDITOR=nano
-
 # run welcome script
 if [ -f ~/.new_user ]; then
  /usr/local/bin/firstlogin
