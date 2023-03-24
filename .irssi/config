@@ -13,8 +13,8 @@ chatnets = {
 };
 
 channels = (
-  { name = "#club"; chatnet = "newnet"; autojoin = "No"; }
-  { name = "#meta"; chatnet = "newnet"; autojoin = "No"; }
+  { name = "#club"; chatnet = "newnet"; autojoin = "yes"; }
+  { name = "#meta"; chatnet = "newnet"; autojoin = "yes"; }
 );
 
 aliases = {
