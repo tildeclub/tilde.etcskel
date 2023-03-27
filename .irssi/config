@@ -1,9 +1,9 @@
 servers = (
-  { address = "irc"; chatnet = "localhost"; port = "6667"; }
+  { address = "irc"; chatnet = "newnet"; port = "6667"; starttls = "no"; }
 );
 
 chatnets = {
-  tildenet = {
+  newnet = {
     type = "IRC";
     max_kicks = "4";
     max_msgs = "5";
@@ -13,8 +13,8 @@ chatnets = {
 };
 
 channels = (
-  { name = "#club"; chatnet = "tilde.chat"; autojoin = "No"; }
-  { name = "#meta"; chatnet = "tilde.chat"; autojoin = "No"; }
+  { name = "#club"; chatnet = "newnet"; autojoin = "yes"; }
+  { name = "#meta"; chatnet = "newnet"; autojoin = "yes"; }
 );
 
 aliases = {
